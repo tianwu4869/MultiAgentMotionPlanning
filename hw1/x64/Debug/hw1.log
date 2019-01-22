@@ -1,0 +1,2 @@
+﻿  glad.c
+f:\courseware\graduate\csci 5611 animation & planning in games\homework2\hw2\hw1\glad\glad.c(5471): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?

@@ -1,0 +1,100 @@
+﻿D:\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (hw1.vcxproj, hw2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  glad.c
+  hw3.cpp
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(37): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(321): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(324): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(325): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(344): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(347): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(348): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(367): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(380): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(383): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(384): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(405): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(414): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(417): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(426): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(443): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(494): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(495): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(496): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(497): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(501): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(502): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(503): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(504): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(508): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(509): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(513): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(514): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(588): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(612): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(667): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\hw3.cpp(686): warning C4018: '<': signed/unsigned mismatch
+  objLoader.cpp
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\objloader.cpp(136): warning C4477: 'fscanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'GLuint *'
+  particleSystem.cpp
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\particlesystem.cpp(92): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\particlesystem.cpp(116): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\particlesystem.cpp(119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\particlesystem.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\particlesystem.cpp(143): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\particlesystem.cpp(146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\particlesystem.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\particlesystem.cpp(166): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\particlesystem.cpp(169): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\particlesystem.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PRM.cpp
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(27): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(59): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(195): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(228): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(231): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(244): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(257): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(285): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(301): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(333): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(334): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(343): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(362): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(381): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(468): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(511): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(556): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(567): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(582): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(594): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(596): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(611): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(614): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(615): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(636): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(645): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(648): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(657): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(674): warning C4018: '<': signed/unsigned mismatch
+  cloth.cpp
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\cloth.cpp(60): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\cloth.cpp(61): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\cloth.cpp(66): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\cloth.cpp(67): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\cloth.cpp(84): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\cloth.cpp(85): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\cloth.cpp(123): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\cloth.cpp(124): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\cloth.cpp(150): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\cloth.cpp(205): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\cloth.cpp(206): warning C4018: '<': signed/unsigned mismatch
+  water.cpp
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\water.cpp(42): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\water.cpp(43): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\water.cpp(86): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\water.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+f:\courseware\graduate\csci 5611 animation & planning in games\homework3\hw3\hw1\prm.cpp(84): warning C4715: 'computePositionOnRoute': not all control paths return a value
+     Creating library F:\Courseware\Graduate\CSCI 5611 Animation & Planning in Games\homework3\hw3\Debug\hw3.lib and object F:\Courseware\Graduate\CSCI 5611 Animation & Planning in Games\homework3\hw3\Debug\hw3.exp
+  hw1.vcxproj -> F:\Courseware\Graduate\CSCI 5611 Animation & Planning in Games\homework3\hw3\Debug\hw3.exe
